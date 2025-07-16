@@ -119,10 +119,6 @@ Tasks are stored in `data/tasks.json` as:
 ]
 ```
 
-The app automatically creates the file/folder if it doesn't exist.
-
----
-
 ```
 
 ```
