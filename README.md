@@ -1,5 +1,3 @@
-Your README is already excellent in terms of structure and content. Below is a visually enhanced version of it **without changing any content**, just improving spacing, consistency, and GitHub rendering:
-
 ---
 
 ```markdown
@@ -21,8 +19,8 @@ A simple and clean **Command-Line Interface (CLI) Todo application** built with 
 ---
 
 ## 📁 Project Structure
-```
 
+```markdown
 CLI_TODO_APP/
 ├── assets/
 ├── data/
@@ -30,8 +28,7 @@ CLI_TODO_APP/
 ├── src/
 │ └── todo.py # Main CLI app
 └── README.md # Project documentation
-
-````
+```
 
 ---
 
@@ -41,7 +38,7 @@ Navigate to the root of the project and run:
 
 ```bash
 python src/todo.py [command]
-````
+```
 
 ---
 
@@ -144,6 +141,7 @@ Example:
 ```markdown
 ## 🖼️ Screenshot
 
-![CLI Screenshot](assets/CLI.png)
-![CLI Screenshot](assets/Nocommand.png)
+![CLI Screenshot](/assets/CLI.png)
+![Help Command](/assets/Nocommand.png)
+![Invalid Command](/assets/Invalids.png)
 ```
