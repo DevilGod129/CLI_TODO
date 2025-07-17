@@ -145,4 +145,5 @@ Example:
 ## 🖼️ Screenshot
 
 ![CLI Screenshot](assets/CLI.png)
+![CLI Screenshot](assets/Nocommand.png)
 ```
