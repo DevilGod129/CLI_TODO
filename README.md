@@ -127,22 +127,4 @@ Tasks are stored in `data/tasks.json` as:
 
 ---
 
-### 📸 How to Add Images in GitHub Markdown (from VS Code)
 
-1. **Put image in your repo**
-   Save your image (e.g., `screenshot.png`) in a folder like `assets/` inside your project directory.
-
-2. **Reference it in the README**
-   Add this markdown line where you want to show the image:
-
-   ```markdown
-   ![CLI Screenshot](assets/screenshot.png)
-   ```
-
-```markdown
-## 🖼️ Screenshot
-
-![CLI Screenshot](/assets/CLI.png)
-![Help Command](/assets/Nocommand.png)
-![Invalid Command](/assets/Invalids.png)
-```
