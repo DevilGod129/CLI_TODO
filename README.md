@@ -1,6 +1,3 @@
----
-
-```markdown
 # 📝 CLI Todo App (Python)
 
 A simple and clean **Command-Line Interface (CLI) Todo application** built with Python. It allows you to manage tasks directly from your terminal with **Clean Code principles** in mind.
@@ -20,13 +17,13 @@ A simple and clean **Command-Line Interface (CLI) Todo application** built with 
 
 ## 📁 Project Structure
 
-```markdown
+```
 CLI_TODO_APP/
 ├── assets/
 ├── data/
-│ └── tasks.json # Stores tasks persistently
+│   └── tasks.json # Stores tasks persistently
 ├── src/
-│ └── todo.py # Main CLI app
+│   └── todo.py # Main CLI app
 └── README.md # Project documentation
 ```
 
@@ -99,7 +96,7 @@ $ python src/todo.py list
 
 ## 🧼 Clean Code Principles Applied
 
-| Principle                 | How It’s Followed                                         |
+| Principle                 | How It's Followed                                         |
 | ------------------------- | --------------------------------------------------------- |
 | **Single Responsibility** | Each function does one thing only                         |
 | **Meaningful Naming**     | Functions and variables are self-descriptive              |
@@ -120,7 +117,13 @@ Tasks are stored in `data/tasks.json` as:
 ]
 ```
 
-````
+---
+
+## 🖼️ Screenshot
+
+![CLI Screenshot](assets/CLI.png)
+![Help Command](assets/Nocommand.png)
+![Invalid Command](assets/Invalids.png)
 
 ---
 
@@ -134,9 +137,7 @@ Tasks are stored in `data/tasks.json` as:
 
    ```markdown
    ![CLI Screenshot](assets/screenshot.png)
-````
-
-Example:
+   ```
 
 ```markdown
 ## 🖼️ Screenshot
