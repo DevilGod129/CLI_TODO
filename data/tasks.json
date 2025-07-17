@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "task": "Clean code hw",
+        "completed": true
+    },
+    {
+        "task": "Lsp capstone project",
+        "completed": false
+    }
+]

@@ -1,3 +1,7 @@
+Your README is already excellent in terms of structure and content. Below is a visually enhanced version of it **without changing any content**, just improving spacing, consistency, and GitHub rendering:
+
+---
+
 ```markdown
 # 📝 CLI Todo App (Python)
 
@@ -20,6 +24,7 @@ A simple and clean **Command-Line Interface (CLI) Todo application** built with 
 ```
 
 CLI_TODO_APP/
+├── assets/
 ├── data/
 │ └── tasks.json # Stores tasks persistently
 ├── src/
@@ -29,7 +34,6 @@ CLI_TODO_APP/
 ````
 
 ---
-
 
 ## 🚀 How to Run
 
@@ -119,6 +123,26 @@ Tasks are stored in `data/tasks.json` as:
 ]
 ```
 
-```
+````
 
+---
+
+### 📸 How to Add Images in GitHub Markdown (from VS Code)
+
+1. **Put image in your repo**
+   Save your image (e.g., `screenshot.png`) in a folder like `assets/` inside your project directory.
+
+2. **Reference it in the README**
+   Add this markdown line where you want to show the image:
+
+   ```markdown
+   ![CLI Screenshot](assets/screenshot.png)
+````
+
+Example:
+
+```markdown
+## 🖼️ Screenshot
+
+![CLI Screenshot](assets/CLI.png)
 ```
